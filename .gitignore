@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+models/*.pkl
+!models/.gitkeep
+data/*
+!data/customer_churn.csv
