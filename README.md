@@ -22,7 +22,7 @@ Nexus is an enterprise-grade AI intelligence platform designed to transform raw 
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   gh repo clone nanditabarai9239/Nexus
    cd predictive_decision_platform
    ```
 
